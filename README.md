@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<img src=""https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gadjian.com%2F&psig=AOvVaw2eZjt7TG1-pxyj4tjVK8ug&ust=1686579798204000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCprMK1u_8CFQAAAAAdAAAAABAD alt="Logo" width="80" height="80">
+<img src="https://www.gadjian.com/static/images/feature_salary.png" alt="Logo" width="80" height="80">
 
 <h3 align="center">Penggajian Karyawan</h3>
 
@@ -37,9 +37,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<div align="center">
 ![App Screenshot](https://raw.githubusercontent.com/adearya/PenggajianKaryawan/main/raw/images/penggajian_karyawan.png)
-</div>
 
 ### Built With
 
