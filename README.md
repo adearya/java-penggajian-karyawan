@@ -59,7 +59,7 @@
 <p>Before getting started, ensure that your system meets all the necessary requirements to run this project smoothly. Below is a list of prerequisites that need to be installed.</p>
 
 <ul>
-	<li>jdk-openjdk >= 24</li>
+    <li>jdk-openjdk >= 24</li>
     <!-- add_prerequisites -->
 </ul>
 
@@ -99,7 +99,7 @@ java Main
 
 <div>
     <a href="https://linkedin.com/in/ade-arya-bimantara">
-        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </div>
 <div>
