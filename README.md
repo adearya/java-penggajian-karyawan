@@ -74,9 +74,9 @@ Change directory
 ```sh
 cd java-penggajian-karyawan/
 ```
-If you want to recompile
+To compile this project
 ```sh
-rm Main.class && javac Main.java
+javac Main.java
 ```
 <!-- add_installation -->
 
@@ -86,7 +86,7 @@ rm Main.class && javac Main.java
 <p>Once the installation is complete, refer to this section for basic usage instructions. Make sure all prerequisites are met before running the application.</p>
 
 
-To run the program
+To run this program
 ```sh
 java Main
 ```
