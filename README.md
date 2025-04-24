@@ -45,7 +45,7 @@
 </p>
 
 ### Built With
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) <br />
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge) <br />
 <!-- add_built_with -->
 
 
